@@ -13,7 +13,7 @@ pip install -r requirements.txt
 To train the model, run the following command:
 
 ```
-./run_fsdp
+./run_fsdp.sh
 ```
 
 ## Evaluation
