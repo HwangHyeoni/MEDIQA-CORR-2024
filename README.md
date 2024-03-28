@@ -21,5 +21,5 @@ To train the model, run the following command:
 For evaluating the model, execute:
 
 ```
-./batch_eval.py
+./batch_eval.sh
 ```
